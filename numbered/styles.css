@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: whitesmoke;
+  font-family: Poppins, sans-serif;
+  color: #0D0000;
+}
+
+#mapid {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  }
+
+.tooltip {
+  width: 300px;
+  white-space: normal;
+}
+
+.map-icon {
+    background-color: powderblue;
+    padding: 12px;
+    border-radius: 50%;
+    border: 1px solid grey;
+    color: grey;
+    font-weight: lighter;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
+    display: flex;
+    font-size: 12pt;
+}
